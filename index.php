@@ -1,5 +1,5 @@
 Hello everyone!!
-<body bgcolor="black" />
+<body bgcolor='aqua'>
 </br>
 <pre>
 <?php
